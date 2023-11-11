@@ -47,7 +47,7 @@
             "id":1,
             "category":"all",
             "title": "Basics of English",
-            "duration": 3.45,
+            "duration": "3:45",
             "price": 100,
             "image": "course-1.jpg"
         },
@@ -55,7 +55,7 @@
             "id":2,
             "category":"3",
             "title": "Past perfect",
-            "duration": 1.45,
+            "duration": "1:45",
             "price": 60,
             "image": "news-01.jpg"
 
@@ -64,7 +64,7 @@
             "id":3,
             "category":"2",
             "title": "Past Continuous",
-            "duration": 1.0,
+            "duration": "1:00",
             "price": 50,
             "image": "news-02.jpg"
 
@@ -73,7 +73,7 @@
             "id":4,
             "category":"1",
             "title": "Past simple",
-            "duration": 0.45,
+            "duration": "0:45",
             "price": 40,
             "image": "course-2.jpg"
 
@@ -82,7 +82,7 @@
             "id":5,
             "category":"1",
             "title": "Present simple",
-            "duration": 0.50,
+            "duration": "0:50",
             "price": 40,
             "image": "news-03.jpg"
 
@@ -91,7 +91,7 @@
             "id":6,
             "category":"3",
             "title": "Present perfect",
-            "duration": 1.50,
+            "duration": "1:50",
             "price": 60,
             "image": "news-04.jpg"
 
