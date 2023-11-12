@@ -39,6 +39,16 @@
             "id": 8,
             "new": "Today lectures will be online(live) at 7:00pm",
             "date": "9 / 11 / 2023"
+        },
+        {
+            "id": 9,
+            "new": "There are a quize tomorrow ISA, study hard, best wishes",
+            "date": "11 / 11 / 2023"
+        },
+        {
+            "id": 10,
+            "new": "Instructor apologizes for today's lectures because family emergency",
+            "date": "14 / 11 / 2023"
         }
     ],
     "courses":
