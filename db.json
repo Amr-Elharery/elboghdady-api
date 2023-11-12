@@ -105,6 +105,14 @@
             "price": 60,
             "image": "news-04.jpg"
 
+        },
+        {
+            "id":7,
+            "category":"all",
+            "title": "Advanced English",
+            "duration": "6:45",
+            "price": 150,
+            "image": "course-1.jpg"
         }
     ],
     "questions": [
@@ -131,6 +139,14 @@
             "assistant": "Ahmed Zaki",
             "author": "Kareem Mohamed",
             "date": "7 / 11 / 2023"
+        },
+        {
+            "id": 4,
+            "question": "Are there be quiez today ?",
+            "answer": "No",
+            "assistant": "Ahmed Zaki",
+            "author": "Ahmed Mohamed",
+            "date": "7 / 11 / 2023"
         }
     ],
     "exams": [
@@ -142,6 +158,15 @@
             "userMarks": 50,
             "userName": "Amr Tamer",
             "notes": "Study rule of past perfect well."
+        },
+        {
+            "id": 2,
+            "date": "12 / 10 / 2023",
+            "title": "Novmber 1st quize",
+            "totalMarks": 10,
+            "userMarks": 9,
+            "userName": "Amr Tamer",
+            "notes": "*No notes"
         }
     ]
 }
