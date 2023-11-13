@@ -42,7 +42,7 @@
         },
         {
             "id": 9,
-            "new": "There are a quize tomorrow ISA, study hard, best wishes",
+            "new": "There are a quiz tomorrow ISA, study hard, best wishes",
             "date": "11 / 11 / 2023"
         },
         {
@@ -142,7 +142,7 @@
         },
         {
             "id": 4,
-            "question": "Are there be quiez today ?",
+            "question": "Are there be quiz today ?",
             "answer": "No",
             "assistant": "Ahmed Zaki",
             "author": "Ahmed Mohamed",
@@ -162,7 +162,7 @@
         {
             "id": 2,
             "date": "12 / 10 / 2023",
-            "title": "Novmber 1st quize",
+            "title": "Novmber 1st quiz",
             "totalMarks": 10,
             "userMarks": 9,
             "userName": "Amr Tamer",
